@@ -18,7 +18,7 @@ atau
 
 Jalankan command berikut pada direktori dataset
 
-`wget -O dataset.zip "https://drive.google.com/uc?export=download&id=1JxqARmOAR0iLdYCIPlJYygKRyeWguewe"`
+`wget -O dataset.zip "https://drive.google.com/uc?export=download&id=1JxqARmOAR0iLdYCIPlJYygKRyeWguewe"` <br> <br>
 `unzip dataset.zip`
 
 
