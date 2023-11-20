@@ -14,3 +14,11 @@ Berikut merupakan dataset yang digunakan dalam project ini. Untuk dapat menjalan
 
 Seluruh dataset tersebut diletakkan dalam direktori /dataset
 
+atau
+
+Jalankan command berikut pada direktori dataset
+
+`wget -O dataset.zip "https://drive.google.com/uc?export=download&id=1JxqARmOAR0iLdYCIPlJYygKRyeWguewe"` <br> <br>
+`unzip dataset.zip`
+
+
