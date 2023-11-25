@@ -7,18 +7,6 @@ Repository untuk lomba DSC TPW 2023.
 Berikut merupakan dataset yang digunakan dalam project ini. Untuk dapat menjalankan program ini dengan baik, pengguna perlu menyediakan secara mandiri dataset berikut dalam bentuk csv.
 - Competition Dataset (Train, Test)<br>
   https://www.kaggle.com/competitions/dsc-teti-programming-week/data
-- City Dataset (Optional) <br> 
-  https://simplemaps.com/static/data/world-cities/basic/simplemaps_worldcities_basicv1.76.zip
-- Country Dataset (Optional)<br>
-  https://github.com/umpirsky/country-list
 
-Seluruh dataset tersebut diletakkan dalam direktori /dataset
-
-atau
-
-Jalankan command berikut pada direktori dataset
-
-`wget -O dataset.zip "https://drive.google.com/uc?export=download&id=1JxqARmOAR0iLdYCIPlJYygKRyeWguewe"` <br> <br>
-`unzip dataset.zip`
 
 
